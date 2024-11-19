@@ -12,6 +12,8 @@
 
 </div>
 
+![Wakatime](https://wakatime.com/badge/user/9860690e-8928-4746-844c-c2924f121f2d/project/efc7e5c7-60a0-40f6-abbe-6df0eeb5b829.svg)
+
 ## 🚀 Project Structure
 
 ```text
